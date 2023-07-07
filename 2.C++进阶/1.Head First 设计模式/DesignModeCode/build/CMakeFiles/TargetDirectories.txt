@@ -1,0 +1,3 @@
+D:/RegularFile/C++/DesignModeCode/build/CMakeFiles/main.dir
+D:/RegularFile/C++/DesignModeCode/build/CMakeFiles/edit_cache.dir
+D:/RegularFile/C++/DesignModeCode/build/CMakeFiles/rebuild_cache.dir
